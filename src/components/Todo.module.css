@@ -1,0 +1,37 @@
+ 
+.container{
+    width: 40%;
+    background-color: royalblue;
+    margin: auto;
+    padding: .5rem;
+    border-radius: 10px;
+}
+.container input{
+    width: 30%;
+    margin: auto;
+    margin-right: 30px;
+    padding: 5px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: italic;
+}
+.search{
+    width: 20%;
+    margin: auto;
+    padding: 10px;
+}
+.search input{
+  
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: italic;
+}
+ 
+   
+   
+   
+  
+
+

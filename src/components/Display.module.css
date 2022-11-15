@@ -1,0 +1,30 @@
+.container{
+    width: 35%;
+    background-color: slategray;
+    color: white;
+    height: auto;
+    padding: .5rem;
+    margin: auto;
+    margin-top: 40px;
+    border-radius: 10px;
+}
+.listbox{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-template-rows: auto;
+    
+    
+}
+.listbox button{
+    margin: 10px;
+}
+.listbox p{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+#active{
+    background-color: red;
+    border: 2px solid red;
+    font-size: 2rem;
+}
